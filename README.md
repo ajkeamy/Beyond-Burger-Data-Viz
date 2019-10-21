@@ -7,4 +7,6 @@ High Definition Infogram: https://infogram.com/hi-1hxj48zy57vr4vg?live
 
 Downloadable Link on Website: https://mcdonalds106.weebly.com/downloads.html
 
-Source Code for Exploratory Analysis: Exploratory_Analysis.ipynb
+Source Code for Exploratory Analysis: https://github.com/ajkeamy/Beyond-Burger-HW-2/blob/master/Exploratory_Analysis.ipynb
+
+
